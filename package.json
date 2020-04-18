@@ -1,8 +1,8 @@
 {
-  "name": "proxy-wonder4",
-  "version": "",
+  "name": "photos-service-proxy",
+  "version": "1",
   "description": "proxy",
-  "author": "SiyunWang",
+  "author": "Laura Heddleston",
   "license": "",
   "engines": {
     "node": ">=6.13.0"
